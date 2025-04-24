@@ -1,0 +1,6 @@
+﻿  Main.c
+D:\Kods\C\DressUp\Dijkstra\Main.c(9,2): warning C4013: memset: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Kods\C\DressUp\Dijkstra\Main.c(40,4): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Kods\C\DressUp\Dijkstra\Main.c(41,72): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\Kods\C\DressUp\Dijkstra\Main.c(32,1): warning C4715: CalculateDistance: значение возвращается не при всех путях выполнения
+  Dijkstra.vcxproj -> D:\Kods\C\DressUp\Dijkstra\x64\Debug\Dijkstra.exe

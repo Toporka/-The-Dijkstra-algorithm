@@ -1,0 +1,43 @@
+﻿  Main.c
+D:\Kods\C\DressUp\Dijkstra\Graph.h(8,2): error C2061: синтаксическая ошибка: идентификатор "StatusPoint"
+  (компиляция исходного файла "Main.c")
+  
+D:\Kods\C\DressUp\Dijkstra\Graph.h(9,1): error C2059: синтаксическая ошибка: }
+  (компиляция исходного файла "Main.c")
+  
+D:\Kods\C\DressUp\Dijkstra\Graph.h(13,2): error C2061: синтаксическая ошибка: идентификатор "Point"
+  (компиляция исходного файла "Main.c")
+  
+D:\Kods\C\DressUp\Dijkstra\Graph.h(14,8): error C2061: синтаксическая ошибка: идентификатор "next_point"
+  (компиляция исходного файла "Main.c")
+  
+D:\Kods\C\DressUp\Dijkstra\Graph.h(14,8): error C2059: синтаксическая ошибка: ;
+  (компиляция исходного файла "Main.c")
+  
+D:\Kods\C\DressUp\Dijkstra\Graph.h(17,1): error C2059: синтаксическая ошибка: }
+  (компиляция исходного файла "Main.c")
+  
+D:\Kods\C\DressUp\Dijkstra\Main.c(5,2): error C2065: Point: необъявленный идентификатор
+D:\Kods\C\DressUp\Dijkstra\Main.c(5,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "A"
+D:\Kods\C\DressUp\Dijkstra\Main.c(5,8): error C2065: A: необъявленный идентификатор
+D:\Kods\C\DressUp\Dijkstra\Main.c(5,12): error C2059: синтаксическая ошибка: {
+D:\Kods\C\DressUp\Dijkstra\Main.c(6,2): error C2065: Point: необъявленный идентификатор
+D:\Kods\C\DressUp\Dijkstra\Main.c(6,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "B"
+D:\Kods\C\DressUp\Dijkstra\Main.c(6,8): error C2065: B: необъявленный идентификатор
+D:\Kods\C\DressUp\Dijkstra\Main.c(6,12): error C2059: синтаксическая ошибка: {
+D:\Kods\C\DressUp\Dijkstra\Main.c(7,2): error C2065: Point: необъявленный идентификатор
+D:\Kods\C\DressUp\Dijkstra\Main.c(7,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "C"
+D:\Kods\C\DressUp\Dijkstra\Main.c(7,8): error C2065: C: необъявленный идентификатор
+D:\Kods\C\DressUp\Dijkstra\Main.c(7,12): error C2059: синтаксическая ошибка: {
+D:\Kods\C\DressUp\Dijkstra\Main.c(8,2): error C2065: Point: необъявленный идентификатор
+D:\Kods\C\DressUp\Dijkstra\Main.c(8,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "D"
+D:\Kods\C\DressUp\Dijkstra\Main.c(8,8): error C2065: D: необъявленный идентификатор
+D:\Kods\C\DressUp\Dijkstra\Main.c(8,12): error C2059: синтаксическая ошибка: {
+D:\Kods\C\DressUp\Dijkstra\Main.c(9,2): error C2065: Point: необъявленный идентификатор
+D:\Kods\C\DressUp\Dijkstra\Main.c(9,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "E"
+D:\Kods\C\DressUp\Dijkstra\Main.c(9,8): error C2065: E: необъявленный идентификатор
+D:\Kods\C\DressUp\Dijkstra\Main.c(9,12): error C2059: синтаксическая ошибка: {
+D:\Kods\C\DressUp\Dijkstra\Main.c(11,2): error C2065: Line: необъявленный идентификатор
+D:\Kods\C\DressUp\Dijkstra\Main.c(11,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "graph"
+D:\Kods\C\DressUp\Dijkstra\Main.c(11,7): error C2065: graph: необъявленный идентификатор
+D:\Kods\C\DressUp\Dijkstra\Main.c(11,13): error C2059: синтаксическая ошибка: ]
